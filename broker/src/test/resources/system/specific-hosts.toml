@@ -1,0 +1,11 @@
+[gateway.network]
+host = "gatewayHost"
+
+[network.commandApi]
+host = "commandHost"
+
+[network.internalApi]
+host = "internalHost"
+
+[network.monitoringApi]
+host = "monitoringHost"
